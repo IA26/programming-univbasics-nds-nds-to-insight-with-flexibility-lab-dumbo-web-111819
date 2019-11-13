@@ -85,7 +85,6 @@ def gross_per_studio(collection)
     end
     counter += 1
   end
-
   result
 end
 
