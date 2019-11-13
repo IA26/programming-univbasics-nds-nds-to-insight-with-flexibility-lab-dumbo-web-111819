@@ -105,8 +105,7 @@ def movies_with_directors_set(source)
     movies_by_dir << movies_with_director_key(director_name, directors_movies)
     counter += 1
   end
-  a_o_a_movies_by_dir
-
+  movies_by_dir
 end
 
 # ----------------    End of Your Code Region --------------------
