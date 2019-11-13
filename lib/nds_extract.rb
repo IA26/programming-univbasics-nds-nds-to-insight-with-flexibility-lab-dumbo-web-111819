@@ -103,7 +103,7 @@ def movies_with_directors_set(source)
   # do that work in the movies_with_director_key method
 
   i = 0
-  a_o_a_movies_by_dir = []
+  movies_by_dir = []
 
   while i < source.length do
     dir_info = source[i]
